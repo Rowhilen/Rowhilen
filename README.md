@@ -8,14 +8,10 @@
 
 - 🌱 I’m currently learning **JavaScript, DB**
 
-- 📝 I regularly write articles on [https://rowhilen.tistory.com/](https://rowhilen.tistory.com/)
+- 📝 I regularly write articles on : <a href="https://rowhilen.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-- 📫 How to reach me **nephiana707@gmail.com**
-<!--<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>-->
+- 📫 How to reach me : <a href="nephiana707@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<a href="https://rowhilen.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 <br>
