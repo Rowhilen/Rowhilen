@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on : <a href="https://rowhilen.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-- 📫 How to reach me : <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nephiana707@gmail.com" target="_blank""><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- 📫 How to reach me : <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nephiana707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
