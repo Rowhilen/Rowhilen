@@ -33,10 +33,10 @@
 <h3 align="center">❤My github stats❤</h3>
 <div align="center">
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=rowhilen&theme=ambient_gradient&show_icons=true" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rowhilen&theme=dracula&show_icons=true" width="42%" />
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowhilen&exclude_repo=dkssud8150.github.io&layout=compact&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowhilen&exclude_repo=dkssud8150.github.io&layout=compact&theme=dracula" />
   </a>
 </div>
 
