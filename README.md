@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <p>🌱 I’m currently learning **JavaScript, DB**</p>
+  <p>🌱 I’m currently learning <string>JavaScript, DB</string></p>
   <p>📝 I regularly write articles on : &nbsp;<a href="https://rowhilen.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
   <p>📫 How to reach me : &nbsp; <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nephiana707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 </div>
